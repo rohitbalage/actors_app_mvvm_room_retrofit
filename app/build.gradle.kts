@@ -92,6 +92,9 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9")
 
 
+    // Glide
+    implementation ("com.github.bumptech.glide:compose:1.0.0-alpha.1")
+
 
 
 
